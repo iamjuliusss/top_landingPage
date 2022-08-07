@@ -1,0 +1,1 @@
+/* "Landing" page task from The Odin Project foundations part. */
