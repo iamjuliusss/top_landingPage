@@ -161,5 +161,39 @@ article p {
 }
 
 .call-action {
-    
+    padding: 100px 0;
+}
+
+.blue-box {
+    position: relative;
+    height: 100%;
+    border-radius: 10px;
+    height: 150px;
+    margin: 0 15%;
+    width: 70%;
+    background-color: #3882F6;
+    color: white;
+}
+
+.blue-content {
+    padding-top: 50px;
+    padding-left: 80px;
+}
+
+.blue-box button {
+    position: relative;
+    right: 150px;
+    bottom: 30px;
+    float: right;
+    border: 2px solid white;
+    background-color: #3882F6;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 12px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 25px 0;
 }
